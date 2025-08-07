@@ -1,0 +1,1 @@
+okay , I want to create a cool kind of register page , let's hope I make it good.
